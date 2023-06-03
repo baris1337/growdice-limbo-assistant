@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+
+    "name": "whitedays helper",
+    "description": "baris#1234",
+    "version": "1.0",
+    "permissions": ["scripting"],
+    "host_permissions": ["<all_urls>"],
+
+    "action": {
+        "default_title": "whitedays helper",
+        "default_popup": "popup.html"      
+    }
+}
